@@ -1,0 +1,902 @@
+[
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Monday",
+    "time": "9:00 AM",
+    "timing": "Monday 9:00 AM",
+    "className": "Les Mills BodyPump",
+    "instructor": "Vincent",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Monday",
+    "time": "11:00 AM",
+    "timing": "Monday 11:00 AM",
+    "className": "Fascia Yoga",
+    "instructor": "Joey",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Monday",
+    "time": "6:30 PM",
+    "timing": "Monday 6:30 PM",
+    "className": "Muay Thai",
+    "instructor": "AB",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Monday",
+    "time": "7:30 PM",
+    "timing": "Monday 7:30 PM",
+    "className": "Hot Iron",
+    "instructor": "Winnie",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Monday",
+    "time": "8:30 PM",
+    "timing": "Monday 8:30 PM",
+    "className": "Yonga",
+    "instructor": "Tun Yao",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Tuesday",
+    "time": "8:00 AM",
+    "timing": "Tuesday 8:00 AM",
+    "className": "Inside Flow",
+    "instructor": "Rynn",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Tuesday",
+    "time": "9:00 AM",
+    "timing": "Tuesday 9:00 AM",
+    "className": "Aerial Yoga",
+    "instructor": "Soon Lee",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Tuesday",
+    "time": "12:00 PM",
+    "timing": "Tuesday 12:00 PM",
+    "className": "Hybrid Training",
+    "instructor": null,
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Tuesday",
+    "time": "6:30 PM",
+    "timing": "Tuesday 6:30 PM",
+    "className": "Aeropure",
+    "instructor": "Jeff Ong",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Tuesday",
+    "time": "7:30 PM",
+    "timing": "Tuesday 7:30 PM",
+    "className": "Les Mills BodyCombat",
+    "instructor": "Tom",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Tuesday",
+    "time": "8:30 PM",
+    "timing": "Tuesday 8:30 PM",
+    "className": "Aerial Yoga",
+    "instructor": "Miko",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Wednesday",
+    "time": "7:15 AM",
+    "timing": "Wednesday 7:15 AM",
+    "className": "Pilates",
+    "instructor": "Chloe Gan",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Wednesday",
+    "time": "8:30 AM",
+    "timing": "Wednesday 8:30 AM",
+    "className": "Functional Yoga",
+    "instructor": "Chloe Gan",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Wednesday",
+    "time": "11:00 AM",
+    "timing": "Wednesday 11:00 AM",
+    "className": "Aeropure",
+    "instructor": "Jeff Ong",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Wednesday",
+    "time": "6:30 PM",
+    "timing": "Wednesday 6:30 PM",
+    "className": "Les Mills BodyCombat",
+    "instructor": "Marcus",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Wednesday",
+    "time": "7:30 PM",
+    "timing": "Wednesday 7:30 PM",
+    "className": "Zumba",
+    "instructor": "Chris",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Wednesday",
+    "time": "8:30 PM",
+    "timing": "Wednesday 8:30 PM",
+    "className": "Strong Nation",
+    "instructor": "Chris",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Thursday",
+    "time": "8:00 AM",
+    "timing": "Thursday 8:00 AM",
+    "className": "Pilates",
+    "instructor": "Lynda",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Thursday",
+    "time": "2:00 PM",
+    "timing": "Thursday 2:00 PM",
+    "className": "Aerial Yoga",
+    "instructor": "Looi",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Thursday",
+    "time": "5:30 PM",
+    "timing": "Thursday 5:30 PM",
+    "className": "Tabata",
+    "instructor": "CK",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Thursday",
+    "time": "6:30 PM",
+    "timing": "Thursday 6:30 PM",
+    "className": "Les Mills BodyPump",
+    "instructor": null,
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Thursday",
+    "time": "7:30 PM",
+    "timing": "Thursday 7:30 PM",
+    "className": "Zumba",
+    "instructor": "Rei",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Thursday",
+    "time": "8:30 PM",
+    "timing": "Thursday 8:30 PM",
+    "className": "Aerial Yoga",
+    "instructor": "JiaXin",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Friday",
+    "time": "7:15 AM",
+    "timing": "Friday 7:15 AM",
+    "className": "Vinyasa Yoga",
+    "instructor": "Baby",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Friday",
+    "time": "9:00 AM",
+    "timing": "Friday 9:00 AM",
+    "className": "Aerial Yoga",
+    "instructor": "Sylvia",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Friday",
+    "time": "10:00 AM",
+    "timing": "Friday 10:00 AM",
+    "className": "Zumba",
+    "instructor": "Winnie",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Friday",
+    "time": "6:30 PM",
+    "timing": "Friday 6:30 PM",
+    "className": "Hybrid Training",
+    "instructor": null,
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Friday",
+    "time": "7:30 PM",
+    "timing": "Friday 7:30 PM",
+    "className": "Les Mills BodyPump",
+    "instructor": "Bobby",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Friday",
+    "time": "8:30 PM",
+    "timing": "Friday 8:30 PM",
+    "className": "Piloxing",
+    "instructor": "Winnie",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Saturday",
+    "time": "9:00 AM",
+    "timing": "Saturday 9:00 AM",
+    "className": "Hatha Yoga",
+    "instructor": "Anne",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Saturday",
+    "time": "10:00 AM",
+    "timing": "Saturday 10:00 AM",
+    "className": "Hybrid Training",
+    "instructor": null,
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Saturday",
+    "time": "11:00 AM",
+    "timing": "Saturday 11:00 AM",
+    "className": "Aerial Yoga",
+    "instructor": "Carmen",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Saturday",
+    "time": "1:00 PM",
+    "timing": "Saturday 1:00 PM",
+    "className": "Fascia Yoga",
+    "instructor": "Joey",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Sunday",
+    "time": "9:00 AM",
+    "timing": "Sunday 9:00 AM",
+    "className": "Gentle Stretching",
+    "instructor": "Anna",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Sunday",
+    "time": "10:00 AM",
+    "timing": "Sunday 10:00 AM",
+    "className": "Les Mills BodyCombat",
+    "instructor": "Wynn",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness 1 Shamelin Mall",
+    "day": "Sunday",
+    "time": "11:00 AM",
+    "timing": "Sunday 11:00 AM",
+    "className": "Hybrid Training",
+    "instructor": null,
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Monday",
+    "time": "7:00 AM",
+    "timing": "Monday 7:00 AM",
+    "className": "Zumba",
+    "instructor": "Puteri",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Monday",
+    "time": "8:00 AM",
+    "timing": "Monday 8:00 AM",
+    "className": "Hatha Yoga",
+    "instructor": "Sook Yee",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Monday",
+    "time": "6:00 PM",
+    "timing": "Monday 6:00 PM",
+    "className": "Yoga",
+    "instructor": "Anne",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Monday",
+    "time": "7:00 PM",
+    "timing": "Monday 7:00 PM",
+    "className": "Pilates",
+    "instructor": "Anne",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Monday",
+    "time": "8:00 PM",
+    "timing": "Monday 8:00 PM",
+    "className": "Les Mills BodyPump",
+    "instructor": "neRa",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Tuesday",
+    "time": "7:00 AM",
+    "timing": "Tuesday 7:00 AM",
+    "className": "Core Fitness",
+    "instructor": "Utie",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Tuesday",
+    "time": "8:00 AM",
+    "timing": "Tuesday 8:00 AM",
+    "className": "Street Jam",
+    "instructor": "Lily",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Tuesday",
+    "time": "6:00 PM",
+    "timing": "Tuesday 6:00 PM",
+    "className": "Yoga",
+    "instructor": "May",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Tuesday",
+    "time": "7:00 PM",
+    "timing": "Tuesday 7:00 PM",
+    "className": "Salsation",
+    "instructor": "Wawein",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Tuesday",
+    "time": "8:00 PM",
+    "timing": "Tuesday 8:00 PM",
+    "className": "Les Mills BodyCombat",
+    "instructor": "neRa",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Wednesday",
+    "time": "7:00 AM",
+    "timing": "Wednesday 7:00 AM",
+    "className": "Vinyasa Yoga",
+    "instructor": "Baby",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Wednesday",
+    "time": "8:00 AM",
+    "timing": "Wednesday 8:00 AM",
+    "className": "Zumba",
+    "instructor": "Lily",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Wednesday",
+    "time": "6:00 PM",
+    "timing": "Wednesday 6:00 PM",
+    "className": "HIIT",
+    "instructor": "Akmal",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Wednesday",
+    "time": "7:00 PM",
+    "timing": "Wednesday 7:00 PM",
+    "className": "Flow Yoga",
+    "instructor": "Terence",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Thursday",
+    "time": "7:00 AM",
+    "timing": "Thursday 7:00 AM",
+    "className": "Boot Camp",
+    "instructor": "Utie",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Thursday",
+    "time": "8:00 AM",
+    "timing": "Thursday 8:00 AM",
+    "className": "Yoga",
+    "instructor": "Baby",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Thursday",
+    "time": "6:00 PM",
+    "timing": "Thursday 6:00 PM",
+    "className": "Zumba",
+    "instructor": "Puteri",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Thursday",
+    "time": "7:00 PM",
+    "timing": "Thursday 7:00 PM",
+    "className": "HIIT",
+    "instructor": "Akmal",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Thursday",
+    "time": "8:00 PM",
+    "timing": "Thursday 8:00 PM",
+    "className": "Piloxing",
+    "instructor": "Sherry",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Friday",
+    "time": "8:00 AM",
+    "timing": "Friday 8:00 AM",
+    "className": "Les Mills BodyPump",
+    "instructor": "Roy",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Friday",
+    "time": "9:00 AM",
+    "timing": "Friday 9:00 AM",
+    "className": "Korce",
+    "instructor": "Roy",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Friday",
+    "time": "7:00 PM",
+    "timing": "Friday 7:00 PM",
+    "className": "Strong Nation",
+    "instructor": "Puteri",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Friday",
+    "time": "8:00 PM",
+    "timing": "Friday 8:00 PM",
+    "className": "Pound Fit",
+    "instructor": "May",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Friday",
+    "time": "9:00 PM",
+    "timing": "Friday 9:00 PM",
+    "className": "Salsation",
+    "instructor": "Wawein",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Saturday",
+    "time": "11:00 AM",
+    "timing": "Saturday 11:00 AM",
+    "className": "Pilates",
+    "instructor": "Asha",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness G Village",
+    "day": "Saturday",
+    "time": "12:00 PM",
+    "timing": "Saturday 12:00 PM",
+    "className": "Les Mills BodyPump",
+    "instructor": "Joey",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Monday",
+    "time": "8:00 PM",
+    "timing": "Monday 8:00 PM",
+    "className": "HIIT",
+    "instructor": "Shamsher",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Monday",
+    "time": "9:00 PM",
+    "timing": "Monday 9:00 PM",
+    "className": "Salsation",
+    "instructor": "Wawein",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Tuesday",
+    "time": "7:00 PM",
+    "timing": "Tuesday 7:00 PM",
+    "className": "Aerial Yoga",
+    "instructor": "Alice",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Tuesday",
+    "time": "8:00 PM",
+    "timing": "Tuesday 8:00 PM",
+    "className": "Zumba",
+    "instructor": "Adza Tuty",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Wednesday",
+    "time": "7:30 AM",
+    "timing": "Wednesday 7:30 AM",
+    "className": "Hatha Yoga",
+    "instructor": "Fibi",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Wednesday",
+    "time": "7:00 PM",
+    "timing": "Wednesday 7:00 PM",
+    "className": "Vinyasa Yoga",
+    "instructor": "Dael",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Wednesday",
+    "time": "8:00 PM",
+    "timing": "Wednesday 8:00 PM",
+    "className": "Salsation",
+    "instructor": "Wawein",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Thursday",
+    "time": "7:30 AM",
+    "timing": "Thursday 7:30 AM",
+    "className": "Aerial Yoga",
+    "instructor": "Alice",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Thursday",
+    "time": "8:00 PM",
+    "timing": "Thursday 8:00 PM",
+    "className": "Yoga Beginner - Intermediate",
+    "instructor": "Khuan",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Friday",
+    "time": "7:30 AM",
+    "timing": "Friday 7:30 AM",
+    "className": "Hatha Yoga",
+    "instructor": "Anne",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Friday",
+    "time": "8:00 PM",
+    "timing": "Friday 8:00 PM",
+    "className": "Fit Circuit",
+    "instructor": "Atta",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Saturday",
+    "time": "9:00 AM",
+    "timing": "Saturday 9:00 AM",
+    "className": "Aerial Yoga (Beginner)",
+    "instructor": "Alice",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Liberty Arc Ampang",
+    "day": "Sunday",
+    "time": "9:00 AM",
+    "timing": "Sunday 9:00 AM",
+    "className": "Vinyasa Yoga",
+    "instructor": "Baby Wong",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Monday",
+    "time": "9:00 AM",
+    "timing": "Monday 9:00 AM",
+    "className": "Hatha Yoga",
+    "instructor": "Alice",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Monday",
+    "time": "5:15 PM",
+    "timing": "Monday 5:15 PM",
+    "className": "Circuit Training",
+    "instructor": "PT Adib",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Monday",
+    "time": "6:00 PM",
+    "timing": "Monday 6:00 PM",
+    "className": "Zumba",
+    "instructor": "Adza Tuty",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Monday",
+    "time": "7:00 PM",
+    "timing": "Monday 7:00 PM",
+    "className": "Yoga",
+    "instructor": "Jaryl",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Monday",
+    "time": "8:00 PM",
+    "timing": "Monday 8:00 PM",
+    "className": "Piloxing Barre",
+    "instructor": "Sherry",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Tuesday",
+    "time": "9:00 AM",
+    "timing": "Tuesday 9:00 AM",
+    "className": "Functional Step",
+    "instructor": "Bel",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Tuesday",
+    "time": "5:15 PM",
+    "timing": "Tuesday 5:15 PM",
+    "className": "Tabata",
+    "instructor": "PT Nita",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Tuesday",
+    "time": "6:00 PM",
+    "timing": "Tuesday 6:00 PM",
+    "className": "Flow Yoga",
+    "instructor": "Amutha",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Tuesday",
+    "time": "7:00 PM",
+    "timing": "Tuesday 7:00 PM",
+    "className": "Tabata Step",
+    "instructor": "Amutha",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Tuesday",
+    "time": "8:00 PM",
+    "timing": "Tuesday 8:00 PM",
+    "className": "Zumba",
+    "instructor": "Pegy",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Wednesday",
+    "time": "9:00 AM",
+    "timing": "Wednesday 9:00 AM",
+    "className": "Strong Nation",
+    "instructor": "Puteri",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Wednesday",
+    "time": "5:15 PM",
+    "timing": "Wednesday 5:15 PM",
+    "className": "HIIT",
+    "instructor": "FM Amir",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Wednesday",
+    "time": "6:00 PM",
+    "timing": "Wednesday 6:00 PM",
+    "className": "Salsation",
+    "instructor": "Wawein",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Wednesday",
+    "time": "7:00 PM",
+    "timing": "Wednesday 7:00 PM",
+    "className": "Hot Iron",
+    "instructor": "Winnie",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Wednesday",
+    "time": "8:00 PM",
+    "timing": "Wednesday 8:00 PM",
+    "className": "Muay Thai",
+    "instructor": "Zul",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Thursday",
+    "time": "9:00 AM",
+    "timing": "Thursday 9:00 AM",
+    "className": "Yoga",
+    "instructor": "Anne",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Thursday",
+    "time": "5:15 PM",
+    "timing": "Thursday 5:15 PM",
+    "className": "Fitcore",
+    "instructor": "PT Zack",
+    "classType": "Hyrox / HIIT / Circuit Style"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Thursday",
+    "time": "6:00 PM",
+    "timing": "Thursday 6:00 PM",
+    "className": "Hip Hop Cardio",
+    "instructor": "Hazmi",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Thursday",
+    "time": "7:00 PM",
+    "timing": "Thursday 7:00 PM",
+    "className": "Bollywood Jam",
+    "instructor": "Shravani",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Thursday",
+    "time": "8:00 PM",
+    "timing": "Thursday 8:00 PM",
+    "className": "Salsation",
+    "instructor": "Wawein",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Friday",
+    "time": "9:00 AM",
+    "timing": "Friday 9:00 AM",
+    "className": "Zumba",
+    "instructor": "Lily",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Friday",
+    "time": "5:15 PM",
+    "timing": "Friday 5:15 PM",
+    "className": "Body Tone",
+    "instructor": "PT Shah",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Friday",
+    "time": "6:00 PM",
+    "timing": "Friday 6:00 PM",
+    "className": "Piloxing",
+    "instructor": "Winnie",
+    "classType": null
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Friday",
+    "time": "7:00 PM",
+    "timing": "Friday 7:00 PM",
+    "className": "Vinyasa Yoga",
+    "instructor": "Alice",
+    "classType": "Yoga"
+  },
+  {
+    "outlet": "Anytime Fitness Jalan Ampang - Great Eastern Mall",
+    "day": "Friday",
+    "time": "8:00 PM",
+    "timing": "Friday 8:00 PM",
+    "className": "Hard Core Pilates",
+    "instructor": "Muz",
+    "classType": null
+  }
+]
